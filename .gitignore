@@ -1,0 +1,51 @@
+# ======== PDFs ========
+# Alle PDF Dateien ignorieren
+*.pdf
+
+# ======== Maven ========
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ======== Java ========
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+
+# ======== IntelliJ IDEA ========
+.idea/
+*.iws
+*.ipr
+out/
+
+# ======== Eclipse ========
+.project
+.classpath
+.settings/
+bin/
+
+# ======== NetBeans ========
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbi/
+
+# ======== VS Code ========
+.vscode/
+
+# ======== OS / TEMP ========
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# ======== Backup Files ========
+*.bak
+*~
+*.swp
